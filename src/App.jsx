@@ -8,7 +8,7 @@ import ForgetPassword from './pages/ForgetPassword';
 import NewPassword from './pages/NewPassword';
 import ConfirmAccount from './pages/ConfirmAccount';
 import ManagePatients from './pages/ManagePatients';
-import EditProfile from './pages/editProfile';
+import EditProfile from './pages/EditProfile';
 import ChangePassword from './pages/ChangePassword';
 
 import { AuthProvider } from './context/AuthProvider'
